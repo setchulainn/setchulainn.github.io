@@ -1,0 +1,355 @@
+{
+  "characters": [
+    {
+      "name": "Crown Prince",
+      "talents": [
+        {
+          "name": "Efficient Orb",
+          "description": "Energy Orb cooldown -2s"
+        },
+        {
+          "name": "Mystic Guard",
+          "description": "Max Shield +20"
+        },
+        {
+          "name": "Large Area Smoke",
+          "description": "Smoke Grenade Radius +40%."
+        },
+        {
+          "name": "Energy Charge",
+          "description": "Recover 5% shield for each enemy Energy Orb hits."
+        },
+        {
+          "name": "Contingency Plan",
+          "description": "For each 10% Shield lost, +5% Shield recovery speed and -5% recovery interval."
+        }
+      ],
+      "ascensions": {
+        "group1": [
+          {
+            "name": "Wildfire",
+            "description": [
+              "After killing an enemy affected by any Elemental Effect, +40% RoF for 6s.",
+              "After killing an enemy affected by any Elemental Effect, +50% RoF for 6s.",
+              "After hitting an enemy affected by any Elemental Effect, +60% RoF for 6s."
+            ]
+          },
+          {
+            "name": "Elemental Rage",
+            "description": [
+              "+30% DMG to enemies under any Elemental Effect.",
+              "+60% DMG to enemies under any Elemental Effect.",
+              "+120% DMG to enemies under any Elemental Effect."
+            ]
+          },
+          {
+            "name": "Energy Echo",
+            "description": "Energy Orb has the same element type as current weapon, and its Elemental Effect Chance is 100%."
+          },
+          {
+            "name": "Pyrodominance",
+            "description": [
+              "+40% Fire DMG.",
+              "+80% Fire DMG.",
+              "+120% Fire DMG."
+            ]
+          },
+          {
+            "name": "Electrodominance",
+            "description": [
+              "+40% Lightning DMG.",
+              "+80% Lightning DMG.",
+              "+120% Lightning DMG."
+            ]
+          },
+          {
+            "name": "Acidominance",
+            "description": [
+              "+40% Corrosion DMG.",
+              "+80% Corrosion DMG.",
+              "+120% Corrosion DMG."
+            ]
+          }
+        ],
+        "group2": [
+          {
+            "name": "Backpack Expansion",
+            "description": [
+              "+4 Smoke Grenade Capacity.",
+              "+8 Smoke Grenade Capacity.",
+              "+12 Smoke Grenade Capacity. Recover 1 grenade for every 2 grenades thrown."
+            ]
+          },
+          {
+            "name": "Hex Smoke",
+            "description": [
+              "Enemies hit by Smoke Grenades deal -40% damage and take +20% damage for 6 seconds.",
+              "Enemies hit by Smoke Grenades deal -50% damage and take +40% damage for 6 seconds.",
+              "Enemies hit by Smoke Grenades deal -60% damage and take +60% damage for 20 seconds."
+            ]
+          },
+          {
+            "name": "Elemental Shield",
+            "description": [
+              "After using the Smoke Grenade, +30 max shield and immunity to Elemental Effects for 6s.",
+              "After using the Smoke Grenade, +60 max shield and immunity to Elemental Effects for 6s.",
+              "After using the Smoke Grenade, +90 max shield and immunity to Elemental Effects for 20s."
+            ]
+          },
+          {
+            "name": "Toxic Smoke",
+            "description": "Smoke Grenades deal +300% base DMG and gain +100% base DMG per second after detonation."
+          },
+          {
+            "name": "Acidic Explosion",
+            "description": "Enemies affected by your grenades become volatile and will explode after being defeated."
+          },
+          {
+            "name": "Smoke Genius",
+            "description": [
+              "Smoke Grenades last for 1 more second, and damage interval is decreased by 20%.",
+              "Smoke Grenades last for 2 more seconds, and damage interval is decreased by 30%.",
+              "Smoke Grenades last for 3 more seconds, and damage interval is decreased by 50%."
+            ]
+          }
+        ],
+        "group3": [
+          {
+            "name": "Chained Duration",
+            "description": [
+              "Energy Orb freezes enemies for 2 more seconds, and -30% cooldown time.",
+              "Energy Orb freezes enemies for 4 more seconds, and -30% cooldown time.",
+              "Energy Orb freezes enemies for 6 more seconds, and -30% cooldown time."
+            ]
+          },
+          {
+            "name": "Blinding Sphere",
+            "description": [
+              "Explosion radius for Energy Orb is increased by +2m, freeze effect and DMG will bypass barriers. +50% Skill DMG for each target it hits.",
+              "Explosion radius for Energy Orb is increased by +4m, freeze effect and DMG will bypass barriers. +50% Skill DMG for each target it hits.",
+              "Explosion radius for Energy Orb is increased by +6m, freeze effect and DMG will bypass barriers. +50% Skill DMG for each target it hits."
+            ]
+          },
+          {
+            "name": "Power Source",
+            "description": [
+              "Energy Orb gains 1 more charge.",
+              "Energy Orb gains 2 more charges.",
+              "Energy Orb gains 5 more charges."
+            ]
+          },
+          {
+            "name": "Energy Bolt",
+            "description": [
+              "Energy Orb deals +200% damage. 50% chance to explode twice. 20% chance to explode 3 times. 15% chance to explode 4 times.",
+              "Energy Orb deals +400% damage. 50% chance to explode twice. 20% chance to explode 3 times. 15% chance to explode 4 times.",
+              "Energy Orb deals +600% damage. 50% chance to explode twice. 20% chance to explode 3 times. 15% chance to explode 4 times."
+            ]
+          },
+          {
+            "name": "Energy Blade",
+            "description": [
+              "After casting Energy Orb, +300% weapon DMG on the next hit and deal +50% DMG to enemies adjacent to initial target.",
+              "After casting Energy Orb, +400% weapon DMG on the next hit and deal +75% DMG to enemies adjacent to initial target.",
+              "After casting Energy Orb, +500% weapon DMG on the next hit and deal +100% DMG to enemies adjacent to initial target."
+            ]
+          },
+          {
+            "name": "Advanced Shield",
+            "description": [
+              "After casting Energy Orb, +30% Shield recharge speed and -30% Shield recharge delay for 6s. The process cannot be interrupted once recharging has started.",
+              "After casting Energy Orb, +60% Shield recharge speed and -60% Shield recharge delay for 6s. The process cannot be interrupted once recharging has started.",
+              "After casting Energy Orb, +90% Shield recharge speed and -90% Shield recharge delay for 20s. The process cannot be interrupted once recharging has started."
+            ]
+          }
+        ]
+      },
+      "spiritualBlessings": [
+        "Blessing 1",
+        "Blessing 2",
+        "Blessing 3",
+        "Blessing 4"
+      ]
+    },
+    {
+      "name": "Ao Bai",
+      "talents": [
+        // Ajoutez les talents pour Ao Bai ici
+      ],
+      "ascensions": {
+        "group1": [
+          // Ajoutez les ascensions pour Ao Bai - Groupe 1 ici
+        ],
+        "group2": [
+          // Ajoutez les ascensions pour Ao Bai - Groupe 2 ici
+        ],
+        "group3": [
+          // Ajoutez les ascensions pour Ao Bai - Groupe 3 ici
+        ]
+      },
+      "spiritualBlessings": [
+        // Ajoutez les bénédictions spirituelles pour Ao Bai ici
+      ]
+    },
+    {
+      "name": "Qing Yan",
+      "talents": [
+        // Ajoutez les talents pour Qing Yan ici
+      ],
+      "ascensions": {
+        "group1": [
+          // Ajoutez les ascensions pour Qing Yan - Groupe 1 ici
+        ],
+        "group2": [
+          // Ajoutez les ascensions pour Qing Yan - Groupe 2 ici
+        ],
+        "group3": [
+          // Ajoutez les ascensions pour Qing Yan - Groupe 3 ici
+        ]
+      },
+      "spiritualBlessings": [
+        // Ajoutez les bénédictions spirituelles pour Qing Yan ici
+      ]
+    },
+    {
+      "name": "Lei Luo",
+      "talents": [
+        // Ajoutez les talents pour Lei Luo ici
+      ],
+      "ascensions": {
+        "group1": [
+          // Ajoutez les ascensions pour Lei Luo - Groupe 1 ici
+        ],
+        "group2": [
+          // Ajoutez les ascensions pour Lei Luo - Groupe 2 ici
+        ],
+        "group3": [
+          // Ajoutez les ascensions pour Lei Luo - Groupe 3 ici
+        ]
+      },
+      "spiritualBlessings": [
+        // Ajoutez les bénédictions spirituelles pour Lei Luo ici
+      ]
+    },
+	{
+      "name": "Tao",
+      "talents": [
+        // Ajoutez les talents pour Tao ici
+      ],
+      "ascensions": {
+        "group1": [
+          // Ajoutez les ascensions pour Tao - Groupe 1 ici
+        ],
+        "group2": [
+          // Ajoutez les ascensions pour Tao - Groupe 2 ici
+        ],
+        "group3": [
+          // Ajoutez les ascensions pour Tao - Groupe 3 ici
+        ]
+      },
+      "spiritualBlessings": [
+        // Ajoutez les bénédictions spirituelles pour Tao ici
+      ]
+    },
+	{
+      "name": "Qian Sui",
+      "talents": [
+        // Ajoutez les talents pour Qian Sui ici
+      ],
+      "ascensions": {
+        "group1": [
+          // Ajoutez les ascensions pour Qian Sui - Groupe 1 ici
+        ],
+        "group2": [
+          // Ajoutez les ascensions pour Qian Sui - Groupe 2 ici
+        ],
+        "group3": [
+          // Ajoutez les ascensions pour Qian Sui - Groupe 3 ici
+        ]
+      },
+      "spiritualBlessings": [
+        // Ajoutez les bénédictions spirituelles pour Qian Sui ici
+      ]
+    },
+	{
+      "name": "Xing Zhe",
+      "talents": [
+        // Ajoutez les talents pour Xing Zhe ici
+      ],
+      "ascensions": {
+        "group1": [
+          // Ajoutez les ascensions pour Xing Zhe - Groupe 1 ici
+        ],
+        "group2": [
+          // Ajoutez les ascensions pour Xing Zhe - Groupe 2 ici
+        ],
+        "group3": [
+          // Ajoutez les ascensions pour Xing Zhe - Groupe 3 ici
+        ]
+      },
+      "spiritualBlessings": [
+        // Ajoutez les bénédictions spirituelles pour Xing Zhe ici
+      ]
+    },
+	{
+      "name": "Li",
+      "talents": [
+        // Ajoutez les talents pour Li ici
+      ],
+      "ascensions": {
+        "group1": [
+          // Ajoutez les ascensions pour Li - Groupe 1 ici
+        ],
+        "group2": [
+          // Ajoutez les ascensions pour Li - Groupe 2 ici
+        ],
+        "group3": [
+          // Ajoutez les ascensions pour Li - Groupe 3 ici
+        ]
+      },
+      "spiritualBlessings": [
+        // Ajoutez les bénédictions spirituelles pour Li ici
+      ]
+    },
+	{
+      "name": "Zi Xiao",
+      "talents": [
+        // Ajoutez les talents pour Zi Xiao ici
+      ],
+      "ascensions": {
+        "group1": [
+          // Ajoutez les ascensions pour Zi Xiao - Groupe 1 ici
+        ],
+        "group2": [
+          // Ajoutez les ascensions pour Zi Xiao - Groupe 2 ici
+        ],
+        "group3": [
+          // Ajoutez les ascensions pour Zi Xiao - Groupe 3 ici
+        ]
+      },
+      "spiritualBlessings": [
+        // Ajoutez les bénédictions spirituelles pour Zi Xiao ici
+      ]
+    },
+	
+	"name": "Nona",
+      "talents": [
+        // Ajoutez les talents pour Nona ici
+      ],
+      "ascensions": {
+        "group1": [
+          // Ajoutez les ascensions pour Nona - Groupe 1 ici
+        ],
+        "group2": [
+          // Ajoutez les ascensions pour Nona - Groupe 2 ici
+        ],
+        "group3": [
+          // Ajoutez les ascensions pour Nona - Groupe 3 ici
+        ]
+      },
+      "spiritualBlessings": [
+        // Ajoutez les bénédictions spirituelles pour Nona ici
+      ]
+    },// Continuez d'ajouter d'autres personnages avec leurs talents, ascensions et bénédictions spirituelles ici
+  ]
+}
